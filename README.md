@@ -1,18 +1,3 @@
-<!--
-**hecikmc/hecikmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=500&color=000000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Jessica" alt="Typing SVG" /></a>
 
 I’m a junior programmer who is passionate about marketing, startups and technology. I have 12 years of experience as Sales Account (business
@@ -30,7 +15,10 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 </p>
 
 
-## 42cursus Progress 💪🏻
+## 42cursus Progress [💪](../../../42-cursus)
+
+
+
 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
@@ -47,9 +35,8 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | 9   |  Philosphers                                | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
 
 
-<h3 align = right>Connect with me!</h3>
 
-[<img src="https://user-images.githubusercontent.com/121127625/226583635-92749b76-e3ba-49f8-8dd4-091c3c1367c7.png" width="50" height="50" align = right></img>](https://www.linkedin.com/in/jessica-merchan-cantero/)
-[<img src="https://user-images.githubusercontent.com/121127625/226584389-2e19928e-40c9-4980-b934-d37ded697b59.png" width="50" height="50" align = right></img>](mailto:jesmercan@gmail.com)
+[<img src="https://user-images.githubusercontent.com/121127625/226583635-92749b76-e3ba-49f8-8dd4-091c3c1367c7.png" width="40" height="40" align = right></img>](https://www.linkedin.com/in/jessica-merchan-cantero/)
+[<img src="https://user-images.githubusercontent.com/121127625/226584389-2e19928e-40c9-4980-b934-d37ded697b59.png" width="40" height="40" align = right></img>](mailto:jesmercan@gmail.com)
 
 
