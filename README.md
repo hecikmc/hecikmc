@@ -26,8 +26,8 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | 2   | Born2beroot                                 | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
 | 3   | [ft_printf](../../../ft_printf-42cursus)    | ✅     |   | 11  | CPP Module 00                              | 🔒     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../get_next_line-42cursus)| ✅     |   | 12  | CPP Module 01                          | 🔒     |   | 22B | webserv                        | 🔒      |
-| 5A  | FdF                                         | 📝     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
-| 5B  |  so_long                                    | ✅     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
+| 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
+| 5B  |  so_long                                    | 📝     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  |  minitalk                                   | 🔒     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  |  [pipex](../../../pipex-42cursus)           | ✅     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  push_swap                                  | 📝     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
