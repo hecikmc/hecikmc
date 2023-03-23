@@ -34,7 +34,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | 8   |  minishell                                  | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   |  Philosphers                                | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
 
-
+<h3><p align="right"> Contact me!</p></h3>
 
 [<img src="https://user-images.githubusercontent.com/121127625/226583635-92749b76-e3ba-49f8-8dd4-091c3c1367c7.png" width="40" height="40" align = right></img>](https://www.linkedin.com/in/jessica-merchan-cantero/)
 [<img src="https://user-images.githubusercontent.com/121127625/226584389-2e19928e-40c9-4980-b934-d37ded697b59.png" width="40" height="40" align = right></img>](mailto:jesmercan@gmail.com)
