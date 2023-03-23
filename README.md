@@ -9,7 +9,7 @@ I have recently joined Campus 42, which is a special school for learning and dev
 I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people and bullding community. 
 
 <p align="center">
-    <a href="https://github.com/oakoudad/badge42">
+    <a href="../../../42-cursus">
       <img src="https://badge.mediaplus.ma/colorfulwaves/jmerchan?1337Badge=off&UM6P=off" alt="jmerchan's 42 stats" />
     </a>
 </p>
@@ -33,6 +33,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | 7   |  push_swap                                  | 📝     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   |  minishell                                  | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   |  Philosphers                                | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
+
 
 <h3><p align="right"> Contact me!</p></h3>
 
