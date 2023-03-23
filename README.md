@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=500&color=000000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Jessica" alt="Typing SVG" /></a>
 
-I’m a junior programmer who is passionate about technology. I have 12 years of experience as Sales Accountant (business
+I’m a junior programmer who is passionate about technology. I have 12 years of experience as a Sales Accountant (business
 and consumers), developing, implementing and monitoring complex digital transformation, mainly related to cloud services and telecomunication
 mobile, fix, and related software.
 
-I have recently joined to Campus 42, that is a special school for learning and developing skills in software development. You can found more details about it at this link [42 Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/). 
+I have recently joined Campus 42, which is a special school for learning and developing skills in software development. You can find more details about it through this link [42 Fundación Telefónica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/). 
 
-I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people, and bullding community. 
+I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people and bullding community. 
 
 <p align="center">
     <a href="https://github.com/oakoudad/badge42">
