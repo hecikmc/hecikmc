@@ -15,7 +15,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 </p>
 
 
-## 42cursus Progress 👉 [📂](../../../42-cursus)
+## 42cursus Progress 👉 📂
 
 
 
