@@ -20,7 +20,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | Nº  | Project                                     | Status |   | Nº  | Project                                   | Status |   | Nº  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../llibft-42cursus)                  | ✅     |   | 8   | minishell                      | 📝     |    | 17  | CPP Module 06                   | 🔒      |
-| 2   | Born2beroot				       			    | ✅     |   | 9   | Philosphers   | 📝     |   | 18  | CPP Module 07    		  		  | 🔒      |
+| 2   | Born2beroot				       			    | ✅     |   | 9   | [Philosphers](../../../philosopher-42Cursus)   |   ✅   |   | 18  | CPP Module 07    		  		  | 🔒      |
 | 3   | [ft_printf](../../../ft_printf-42cursus)          | ✅     |   | 10A | cub3d 		 		    				| 🔒     |   | 19  | CPP Module 08                   | 🔒      |
 | 4   | [get_next_line](../../../get_next_line-42cursus)  | ✅     |   | 10B | miniRT      							| 🔒     |   | 20 | NetPractice      				 |   🔒  |
 | 5A  | FdF                                         | 🔒     |   | 11  | CPP Module 00 								| 🔒     |   | 21  | ft_containers                     | 🔒      |
