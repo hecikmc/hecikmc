@@ -19,7 +19,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 
 | Nº  | Project                                     | Status |   | Nº  | Project                                   | Status |   | Nº  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../libft-42cursus)                  | ✅     |   | 8   | minishell                      | 📝     |    | 17  | CPP Module 06                   | 🔒      |
+| 1   | [Libft](../../../libft-42cursus)                  | ✅     |   | 8   | [minishell](../../../minishell) | ✅     |    | 17  | CPP Module 06                   | 🔒      |
 | 2   | Born2beroot				       			    | ✅     |   | 9   | [Philosphers](../../../philosopher-42Cursus)   |   ✅   |   | 18  | CPP Module 07    		  		  | 🔒      |
 | 3   | [ft_printf](../../../ft_printf-42cursus)          | ✅     |   | 10A | cub3d 		 		    				| 🔒     |   | 19  | CPP Module 08                   | 🔒      |
 | 4   | [get_next_line](../../../get_next_line-42cursus)  | ✅     |   | 10B | miniRT      							| 🔒     |   | 20 | NetPractice      				 |   🔒  |
@@ -28,7 +28,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | 5C  |	fractol										| 🔒     |	 | 13  | CPP Module 02                             	|    🔒 |   | 22B | webserv                         | 🔒      |
 | 6A  | minitalk           							| 🔒     |	 | 14  | CPP Module 03                            	|    🔒 |   | 23 | Inception                  | 🔒      |
 | 6B  | [pipex](../../../pipex-42cursus)                  | ✅     |	| 15  | CPP Module 04                            |    🔒 |   | 24  | ft_transcendence      | 🔒      |
-| 7   | [push_swap](../../../push_swap-42Cursus)          | ✅     |	| 16  | CPP Module 05                            	|    🔒 |   | 25  | netwhat      			 | 🔒      |
+| 7   | [push_swap](../../../push_swap-42Cursus)          | ✅     |	| 16  | CPP Module 05                            	|    🔒 |   | 25  | FINISH     			 | 🔒      |
 
 <h3><p align="right"> Contact me!</p></h3>
 
