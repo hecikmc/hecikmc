@@ -33,7 +33,7 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 
 ## My skill set
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecikmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecikmc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><p align="right"> Contact me!</p></h3>
 
