@@ -30,6 +30,11 @@ I love the concepts of open-source, teamwork and knowledge sharing in general cr
 | 6B  | [pipex](../../../pipex-42cursus)                  | ✅     |	| 15  | CPP Module 04                            |    🔒 |   | 24  | ft_transcendence      | 🔒      |
 | 7   | [push_swap](../../../push_swap-42Cursus)          | ✅     |	| 16  | CPP Module 05                            	|    🔒 |   | 🏁  | FINISH     			 | 🔒      |
 
+
+## My skill set
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecikmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3><p align="right"> Contact me!</p></h3>
 
 [<img src="https://user-images.githubusercontent.com/121127625/226583635-92749b76-e3ba-49f8-8dd4-091c3c1367c7.png" width="40" height="40" align = right></img>](https://www.linkedin.com/in/jessicamerchan/)
